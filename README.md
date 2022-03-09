@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BasanthCecil
 - 👀 I’m interested in Web development, Database Development and Cloud Technologies.
 - 🌱 I’m currently learning Database Development and Web development.
-- 💞️ I’m looking to collaborate on projects related to Databases( NoSQL and SQL) and Backend Development projects.
+- 💞️ I’m looking to collaborate on projects related to Databases( NoSQL and SQL) and Backend projects.
 - 📫 How to reach me - basanthcecil616@gmail.com
 
 <!---
